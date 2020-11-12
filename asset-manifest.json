@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Click-Game/static/css/main.55aa3788.chunk.css",
+    "main.js": "/Click-Game/static/js/main.f6b0cc49.chunk.js",
+    "main.js.map": "/Click-Game/static/js/main.f6b0cc49.chunk.js.map",
+    "runtime-main.js": "/Click-Game/static/js/runtime-main.c172fc2d.js",
+    "runtime-main.js.map": "/Click-Game/static/js/runtime-main.c172fc2d.js.map",
+    "static/js/2.681b2a92.chunk.js": "/Click-Game/static/js/2.681b2a92.chunk.js",
+    "static/js/2.681b2a92.chunk.js.map": "/Click-Game/static/js/2.681b2a92.chunk.js.map",
+    "index.html": "/Click-Game/index.html",
+    "static/css/main.55aa3788.chunk.css.map": "/Click-Game/static/css/main.55aa3788.chunk.css.map",
+    "static/js/2.681b2a92.chunk.js.LICENSE.txt": "/Click-Game/static/js/2.681b2a92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c172fc2d.js",
+    "static/js/2.681b2a92.chunk.js",
+    "static/css/main.55aa3788.chunk.css",
+    "static/js/main.f6b0cc49.chunk.js"
+  ]
+}
