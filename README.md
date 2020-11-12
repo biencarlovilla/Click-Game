@@ -17,13 +17,13 @@ For this assignment, you'll create a memory game with React. This assignment wil
 
 Once, you ran this to your terminal, it will generate the folders you needed. I used clickgame for the folder name
 
-  ![visual](assets/images/model.png)
+  ![visual](assets/image/model.png)
 
 Once you are done with your code, go to the folder's directory and run the following code 
 * npm start
 
 ## Visuals
-![visual](assets/images/theoffice.png)
+![visual](assets/image/theoffice.png)
 
 
 ## Tools
