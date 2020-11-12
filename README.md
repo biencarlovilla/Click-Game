@@ -10,6 +10,7 @@ For this assignment, you'll create a memory game with React. This assignment wil
   * [Tools](#Tools)
   * [License](#license)
   * [Contributors](#Contributors)
+  * [Deployed-Link](#Deployed-Link)
  
 
 ## Installation 
@@ -58,3 +59,7 @@ SOFTWARE.
   
 ## Contributors
    https://github.com/biencarlovilla
+   
+## Deployed-Link
+  https://biencarlovilla.github.io/Click-Game/
+   
