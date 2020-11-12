@@ -6,7 +6,8 @@ For this assignment, you'll create a memory game with React. This assignment wil
   * [Description](#Description)
   * [TableOfContents](#TableOfContents)
   * [Installation](#Installation)
-  * [Visuals](V)
+  * [Visuals](Visuals)
+  * [Tools](#Tools)
   * [License](#license)
   * [Contributors](#Contributors)
  
@@ -24,6 +25,13 @@ Once you are done with your code, go to the folder's directory and run the follo
 ## Visuals
 ![visual](assets/images/theoffice.png)
 
+
+## Tools
+* React 
+* HTML
+* CSS
+* Bootstrap
+* Node.
 
 ## License
 MIT License
